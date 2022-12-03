@@ -8,5 +8,5 @@ setup(
     author='ajay sah',
     author_email='aj@gmail.com',
     packages=find_packages(),
-    install_requires=['numpy', 'turtle'],
+    install_requires=['numpy', 'turtles'],
 )
