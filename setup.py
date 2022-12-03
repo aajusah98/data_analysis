@@ -3,9 +3,10 @@ from setuptools import find_packages
 
 
 setup(
-    name='data_analysis',
+    name='snowflake',
     version='0.1',
     author='ajay sah',
+    author_email='aj@gmail.com',
     packages=find_packages(),
     install_requires=['numpy', 'turtle'],
 )
